@@ -1,0 +1,7 @@
+.idea/
+out/
+bin
+build/
+*.iml
+*.ipr
+*.iws
